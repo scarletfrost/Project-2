@@ -1,0 +1,31 @@
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+
+#map-container {
+    position: relative;
+    height: 400px;
+    width:500px;
+}
+
+ #map {
+  height: 500px;
+  width: 2500px;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+
+#selState {
+  width: 200px;
+}                                                                                                                                                                                    
+
+
+
